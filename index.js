@@ -30,6 +30,8 @@ app.listen(PORT, function () {
     });
  
 /* Registro del servicio */
+/* Registro del servicio */
+/* Registro del servicio */
 var check = {
   id: SERVICE_ID,
   name: SERVICE_NAME,
